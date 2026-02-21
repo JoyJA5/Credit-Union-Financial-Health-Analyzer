@@ -46,7 +46,7 @@ This tool:
 ![Loan-to-Asset Scatter](loan_to_asset_scatter.png)
 
 ### Sample Excel Report
-[Download credit_union_analysis_report.xlsx](reports/credit_union_analysis_report.xlsx)  
+[Download credit_union_analysis_report.xlsx](credit_union_analysis_report.xlsx)  
 (Sheets: Raw_Data, Statistics, Top_Assets_SQL, High_Growth_SQL)
 
 ## How to Run

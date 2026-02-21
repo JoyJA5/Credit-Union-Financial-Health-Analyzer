@@ -44,8 +44,8 @@ The distribution is heavily right-skewed, with most credit unions having total a
 ### Top 10 Credit Unions by Total Assets ($ Millions)
 ![Top 10 Assets](top_10_assets_bar.png)
 ###
-The largest credit unions dominate, with the #1 CU (likely Navy Federal) having assets ~$194B — roughly 3–4× larger than #2. The top 10 represent a significant portion of the industry's total assets.  
-**Business insight**: These top players are likely key targets for financial technology solutions, risk management services, or lending partnerships — they have scale, but also complex needs.
+The largest credit unions dominate, with the #1 CU (likely Navy Federal) having assets ~$194B which is roughly 3–4× larger than #2. The top 10 represent a significant portion of the industry's total assets.  
+**Business insight**: These top players are likely key targets for financial technology solutions, risk management services, or lending partnerships; they have scale, but also complex needs.
 
 
 
@@ -55,7 +55,7 @@ The largest credit unions dominate, with the #1 CU (likely Navy Federal) having 
 
  ###
 In this dataset, loan-to-asset ratios are zero due to data masking in the public export. In real data, we'd expect most points clustered between 50–80% (typical for healthy CUs), with outliers indicating aggressive lending or conservative strategies. The red line at 70% is a common industry benchmark for balanced loan portfolios.  
-**Business insight**: High ratios (>70%) could signal growth-oriented CUs (more lending activity), while low ratios might indicate conservative risk management or liquidity focus — useful for segmenting partners.
+**Business insight**: High ratios (>70%) could signal growth-oriented CUs (more lending activity), while low ratios might indicate conservative risk management or liquidity focus which is useful for segmenting partners.
 
 
 

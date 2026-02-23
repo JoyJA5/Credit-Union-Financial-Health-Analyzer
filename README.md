@@ -4,7 +4,6 @@
 
 A Python + SQL project analyzing real U.S. credit union financial data from NCUA Call Reports. It profiles data, validates records, runs SQL queries for business insights, computes key ratios, visualizes trends, and exports stakeholder-ready Excel reports.
 
-Built to demonstrate skills relevant to data analysis, reporting, and problem-solving roles in financial services.
 
 ## Overview
 
